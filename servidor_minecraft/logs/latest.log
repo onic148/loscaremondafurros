@@ -46,3 +46,20 @@
 [16:59:02] [Server thread/INFO]: Set NicoGamer148's game mode to Creative Mode
 [17:10:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [17:10:03] [Server thread/INFO]: admin NicoGamer148<--[HERE]
+[17:14:17] [Server thread/INFO]: Set the time to 1000
+[17:15:46] [Server thread/INFO]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[17:15:46] [Server thread/INFO]: summon NicoGamer148 endermite<--[HERE]
+[17:16:00] [Server thread/INFO]: Can't find element 'minecraft:creepeer' of type 'minecraft:entity_type'
+[17:16:00] [Server thread/INFO]: ...n creepeer<--[HERE]
+[17:16:08] [Server thread/INFO]: Summoned new Creeper
+[17:18:09] [Server thread/INFO]: NicoGamer148 lost connection: Kicked by an operator
+[17:18:09] [Server thread/INFO]: NicoGamer148 left the game
+[17:18:09] [Server thread/INFO]: Kicked NicoGamer148: Kicked by an operator
+[17:18:09] [Server thread/WARN]: handleDisconnection() called twice
+[17:18:19] [Server thread/INFO]: NicoGamer148[/[0:0:0:0:0:0:0:1%0]:33870] logged in with entity id 7903 at (-271.3117295137821, 65.0, -76.21703989525938)
+[17:18:19] [Server thread/INFO]: NicoGamer148 joined the game
+[17:18:36] [Server thread/INFO]: Seed: [7626344090313955181]
+[17:19:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:19:11] [Server thread/INFO]: register set<--[HERE]
+[17:19:49] [Server thread/INFO]: NicoGamer148 lost connection: Timed out
+[17:19:49] [Server thread/INFO]: NicoGamer148 left the game
