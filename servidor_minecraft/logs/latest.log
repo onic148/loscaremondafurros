@@ -277,3 +277,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Nov2024 02:10:06.965] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10604 ms
 [29Nov2024 02:10:06.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.762s)! For help, type "help"
 [29Nov2024 02:10:07.023] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Nov2024 02:19:24.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 02:19:24.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
